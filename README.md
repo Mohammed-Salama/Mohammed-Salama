@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Salama</h1>
+<h1 align="center">Hi 👋, I'm [Salama](https://github.com/Mohammed-Salama)</h1>
 <h3 align="center">A Computer Engineering Student at CUFE</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Salama&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed-Salama" /> </p>
 
