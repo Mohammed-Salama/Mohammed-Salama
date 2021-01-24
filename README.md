@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salama</h1>
 <h3 align="center">A Computer Engineering Student at CUFE</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Salama&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed-Salama" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Salama&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed-Salama" /> </p>
 
 
 - <img src="https://github.com/Mohammed-Salama/Mohammed-Salama/blob/main/logo221.png" width="25" draggable="false"> I’m currently a student in my 2nd year at Computer Engineering Department Faculty of Engineering Cairo University
