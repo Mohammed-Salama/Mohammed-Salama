@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Microproccessors, Databases, and Algorithms**
 
-- 📫 How to reach me **mohammedsalama1617@gmail,com**
+- 📫 How to reach me **mohammedsalama1617@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
