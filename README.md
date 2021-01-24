@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m currently a student at Computer Engineering Department Faculty of Engineering Cairo University
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Salama&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed-Salama" /> </p>
 
 - 🌱 I’m currently learning **Microproccessors, Databases, and Algorithms**
 
