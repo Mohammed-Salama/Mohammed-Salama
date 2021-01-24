@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammed-Salama&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mohammed-Salama" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Salama&show_icons=true&locale=en&theme=radical" alt="Mohammed-Salama" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Salama&show_icons=true&locale=en&theme=dark" alt="Mohammed-Salama" /></p>
