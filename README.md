@@ -6,7 +6,7 @@
 
 - <img src="https://github.com/Mohammed-Salama/Mohammed-Salama/blob/main/logo221.png" width="25" draggable="false"> I’m currently a student in my 2nd year at Computer Engineering Department Faculty of Engineering Cairo University
 
-- 🌱 I’m currently learning **Microproccessors, Databases, and Algorithms**
+- 🌱 I’m currently learning **Microcontrollers, Operating systems, and Algorithms**
 
 - 📫 How to reach me **mohammedsalama1617@gmail.com**
 
