@@ -1,12 +1,12 @@
 # <h1 align="center">Hi 👋, I'm [SALAMA](https://github.com/Mohammed-Salama)</h1>
 <h3 align="center">A Computer Engineering Student at CUFE</h3>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Salama&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed-Salama" /> </p>
+
 
 
 - <img src="https://github.com/Mohammed-Salama/Mohammed-Salama/blob/main/logo221.png" width="25" draggable="false"> I’m currently a junior computer engineering student at Computer Engineering Department Faculty of Engineering Cairo University
 
-- 🌱 I’m currently learning **Algorithms**
+- 🌱 I’m currently learning **Back-End development and problem solving**
 
 - 📫 How to reach me **mohammedsalama1617@gmail.com**
 
@@ -27,3 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammed-Salama&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mohammed-Salama" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Salama&show_icons=true&locale=en&theme=radical" alt="Mohammed-Salama" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Salama&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed-Salama" /> </p>
