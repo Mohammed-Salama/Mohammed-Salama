@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm [SALAMA](https://github.com/Mohammed-Salama)</h1>
-<h3 align="center">A Computer Engineering Student at CUFE</h3>
+<h3 align="center">Junior Computer Engineering Student at CUFE</h3>
 <br/>
 
 
