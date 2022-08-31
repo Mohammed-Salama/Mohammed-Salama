@@ -6,7 +6,7 @@
 
 - <img src="https://github.com/Mohammed-Salama/Mohammed-Salama/blob/main/logo221.png" width="25" draggable="false"> I’m currently a senior computer engineering student at Computer Engineering Department Faculty of Engineering Cairo University
 
-- 🌱 I’m currently learning **Back-End development, Flutter ,and problem solving**
+- 🌱 I’m currently learning **Front-End development, Back-End development, and problem solving**
 
 - 📫 How to reach me **mohammedsalama1617@gmail.com**
 
