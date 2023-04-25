@@ -26,7 +26,7 @@
  <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.javascript.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/dart-2752158-2284971.png" alt="dart" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800" alt="dart" width="40" height="40"/> </a>
 
 </p>
 
@@ -53,7 +53,7 @@
 
 <br/>
 
-<h3 align="center">Tools</h2>
+<h2 align="center">Tools</h2>
 <p align="center">
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
