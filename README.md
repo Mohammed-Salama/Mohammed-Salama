@@ -62,8 +62,6 @@
 
 <br/>
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammed-Salama&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mohammed-Salama" /></p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Salama&show_icons=true&locale=en&theme=radical" alt="Mohammed-Salama" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Salama&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed-Salama" /> </p>
