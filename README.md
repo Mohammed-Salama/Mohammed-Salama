@@ -4,7 +4,7 @@
 
 
 
-- <img src="https://github.com/Mohammed-Salama/Mohammed-Salama/blob/main/logo221.png" width="25" draggable="false"> Computer engineering graduate from Computer Engineering Department Faculty of Engineering Cairo University
+- <img src="https://github.com/Mohammed-Salama/Mohammed-Salama/blob/main/logo221.png" width="25" draggable="false"> Computer Engineering Graduate from Computer Engineering Department Faculty of Engineering Cairo University
 
 
 - 📫 How to reach me **mohammedsalama1617@gmail.com**
@@ -45,7 +45,7 @@
 <p align="center">
     <a href="https://nodejs.org" target="_blank"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="[https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dmysql&psig=AOvVaw0_RN3hAQ4F7QtECKn5UwNi&ust=1710589618800000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDqkIeZ9oQDFQAAAAAdAAAAABAE)" alt="mysql" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
 
 </p>
