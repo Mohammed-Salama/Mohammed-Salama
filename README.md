@@ -1,12 +1,11 @@
 # <h1 align="center">Hi 👋, I'm [SALAMA](https://github.com/Mohammed-Salama)</h1>
-<h2 align="center">Senior Computer Engineering Student at CUFE</h2>
+<h2 align="center">Computer Engineer</h2>
 <br/>
 
 
 
-- <img src="https://github.com/Mohammed-Salama/Mohammed-Salama/blob/main/logo221.png" width="25" draggable="false"> I’m currently a senior computer engineering student at Computer Engineering Department Faculty of Engineering Cairo University
+- <img src="https://github.com/Mohammed-Salama/Mohammed-Salama/blob/main/logo221.png" width="25" draggable="false"> Computer engineering graduate from Computer Engineering Department Faculty of Engineering Cairo University
 
-- 🌱 I’m currently learning **Front-End development, Back-End development, and problem solving**
 
 - 📫 How to reach me **mohammedsalama1617@gmail.com**
 
